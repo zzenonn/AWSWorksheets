@@ -10,7 +10,7 @@ We need to jump through some hoops to get access to the labs, notes and my hints
 
 - Join or login to imperial-consulting.qwiklabs.com to ensure your training and certifications are captured. **Use your corporate email**. We will not spam you or sell your details. 
     - Access Qwiklabs (yes it is spelt INCORRECTLY) 
-        - https://www.imperial-consulting.qwiklabs.com for the labs in this class (use your corporate email)
+        - https://imperial-consulting.qwiklabs.com for the labs in this class (use your corporate email)
         - run.qwiklabs.com for outside of the class or to do other labs at your own pace. 
         - NOTE: Some are free others require course credits. Also check out the AWS Professional Developer Series of MOOCs on edX https://www.edx.org/aws-developer-professional-series 
 - Access the course notes and slides. You'll receive an email confirming your attendance at this course and with the following links.
