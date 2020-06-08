@@ -1,4 +1,4 @@
-# AWS Tips from Zenon
+# AWS Instructions from Zenon
 
 This is my list of hints and tips for different AWS courses. It’s markdown so you can save it, access it or store it anywhere. I might also give you other links that are course specific. I’ll add specific answers to questions I get during the course. I’ll share it with everyone.
 
