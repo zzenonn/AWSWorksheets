@@ -12,6 +12,7 @@ We need to jump through some hoops to get access to the labs, notes and my hints
     - Access Qwiklabs (yes it is spelt INCORRECTLY) 
         - https://imperial-consulting.qwiklabs.com for the labs in this class (use your corporate email)
         - run.qwiklabs.com for outside of the class or to do other labs at your own pace. 
+        - **Students are allowed to attempt each lab up to 3 times. Once the student attempts to launch a lab for the 4th time, they will receive an error message stating they have exceeded their quota for that specific lab.**
         - NOTE: Some are free others require course credits. Also check out the AWS Professional Developer Series of MOOCs on edX https://www.edx.org/aws-developer-professional-series 
 - Access the course notes and slides. You'll receive an email confirming your attendance at this course and with the following links.
     - www.vitalsource.com look for a signup link and download link. Or just go to https://evantage.gilmoreglobal.com/#/user/signin
